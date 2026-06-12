@@ -1,8 +1,11 @@
-# Generated output
-backtest_v3.xlsx
+# Generated output (old versions excluded)
 backtest_v2.xlsx
 predictii_etapa1.xlsx
-statistici_calificari_cm2026*.xlsx
+statistici_calificari_cm2026.xlsx
+statistici_calificari_cm2026_v2.xlsx
+statistici_calificari_cm2026_v3.xlsx
+statistici_calificari_cm2026_v4.xlsx
+statistici_calificari_cm2026_v5.xlsx
 ~$*.xlsx
 
 # Cache directory (re-fetched automatically)
